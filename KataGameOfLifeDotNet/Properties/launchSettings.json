@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GameOfLife": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\jlos\\Desktop\\dotNet\\gameoflife.txt"
+    }
+  }
+}
